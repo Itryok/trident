@@ -12,5 +12,10 @@ vertical, communications, or affordability.
 # Daily log
 
 13/06/2023
-1) Downloaded ROS 2 galactic
-2) Understood the system flow for the AUV
+1) Downloaded ROS 2 galactic.
+2) Understood the system flow for the AUV.
+
+14/06/2023
+1) Completed the Simulink Onramp course.
+2) Read this paper:file:///C:/Users/Archanaa%20A%20C.DESKTOP-BNCE7G2/Downloads/Design_and_Development_of_an_Autonomous_Underwater%20(1).pdf
+3) Started an AUV Deep dive video series to understand the workflow for an AUV and the implementation on Simulink.
