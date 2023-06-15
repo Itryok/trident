@@ -9,7 +9,7 @@ incorporate a robust navigation and obstacle avoidance system, with a
  thrust of novelty towards either the vision vertical, the power 
 vertical, communications, or affordability.
 
-###Resources
+# Resources
 
 Design and implementation in simulink:https://in.mathworks.com/videos/design-modeling-and-simulation-of-autonomous-underwater-vehicles-1619636864529.html
 
