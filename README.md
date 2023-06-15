@@ -8,3 +8,9 @@ to a remote station for analysis and decision-making. It should also
 incorporate a robust navigation and obstacle avoidance system, with a
  thrust of novelty towards either the vision vertical, the power 
 vertical, communications, or affordability.
+
+##Daily log
+
+13/06/2023
+1) Downloaded ROS 2 galactic
+2) Understood the system flow for the AUV
