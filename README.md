@@ -9,7 +9,7 @@ incorporate a robust navigation and obstacle avoidance system, with a
  thrust of novelty towards either the vision vertical, the power 
 vertical, communications, or affordability.
 
-###Daily log
+# Daily log
 
 13/06/2023
 1) Downloaded ROS 2 galactic
