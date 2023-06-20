@@ -19,3 +19,18 @@ vertical, communications, or affordability.
 1) Completed the Simulink Onramp course.
 2) Read this paper:file:///C:/Users/Archanaa%20A%20C.DESKTOP-BNCE7G2/Downloads/Design_and_Development_of_an_Autonomous_Underwater%20(1).pdf
 3) Started an AUV Deep dive video series to understand the workflow for an AUV and the implementation on Simulink.
+
+15/06/2023
+1) Learnt about building hardware systems in MATLAB
+
+16/06/2023
+1) Read relevant papers to understand the mathematics for modelling the dynamic system
+
+17/06/2023
+1) First MIM
+2) Read a thesis
+
+18/06/2023-Holiday
+19/6/2023-Holiday
+
+
