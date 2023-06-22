@@ -31,6 +31,9 @@ vertical, communications, or affordability.
 2) Read a thesis
 
 18/06/2023-Holiday
+
 19/6/2023-Holiday
 
+20/6/2023 - Completed reading a thesis on the mathematical model of a double hull AUV
 
+21/6/2023 - Started reading a thesis on a Lagrangian approach and different control schemes for the controller.
