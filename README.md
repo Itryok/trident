@@ -37,3 +37,23 @@ vertical, communications, or affordability.
 20/6/2023 - Completed reading a thesis on the mathematical model of a double hull AUV
 
 21/6/2023 - Started reading a thesis on a Lagrangian approach and different control schemes for the controller.
+
+22/6/2023 - Read more of the Guidance and Control in Ocean vehicles textbook
+
+23/06/2023 - Started working with the MBARI lrauv
+
+24/06/2023 - MIM 2
+
+25/06/2023 - 26/06/2023 - Holiday
+
+27/06/2023 - studied the textbook
+
+28/06/2023 - bakrid
+
+29/06/2023 - started writing launch file
+
+30/06/2023 - wrote little bit more
+
+01/07/2023 - MIM 3 + freaked out little
+
+02/07 , 03/07 - Holiday
