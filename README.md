@@ -14,3 +14,12 @@ vertical, communications, or affordability.
 Design and implementation in simulink:https://in.mathworks.com/videos/design-modeling-and-simulation-of-autonomous-underwater-vehicles-1619636864529.html
 
 AUV Deep dive series: https://in.mathworks.com/videos/series/auv-deep-dive.html
+
+Tool for measuring the mass and inertia  matrix for generic objects: https://amesweb.info/inertia/mass-moment-of-inertia-calculator.aspx
+
+Reference project from a university : https://www.youtube.com/watch?v=oArEOR98A5Y
+
+
+
+
+
