@@ -57,3 +57,7 @@ vertical, communications, or affordability.
 01/07/2023 - MIM 3 + freaked out little
 
 02/07 , 03/07 - Holiday
+
+Midterm  week : Same same
+
+Week 5: Figured out the launch file in ignition + started writing an imu node for propulsion of the AUV autonomously
